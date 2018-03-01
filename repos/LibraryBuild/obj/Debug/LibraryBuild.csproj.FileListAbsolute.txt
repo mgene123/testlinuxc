@@ -1,0 +1,5 @@
+c:\users\a\Source\Repos\LibraryBuild\LibraryBuild\bin\Debug\LibraryBuild.dll
+c:\users\a\Source\Repos\LibraryBuild\LibraryBuild\bin\Debug\LibraryBuild.pdb
+c:\users\a\Source\Repos\LibraryBuild\LibraryBuild\obj\Debug\LibraryBuild.csprojResolveAssemblyReference.cache
+c:\users\a\Source\Repos\LibraryBuild\LibraryBuild\obj\Debug\LibraryBuild.dll
+c:\users\a\Source\Repos\LibraryBuild\LibraryBuild\obj\Debug\LibraryBuild.pdb

@@ -1,0 +1,15 @@
+c:\users\a\Source\Repos\LibraryBuild\JenkkinsTest\bin\Debug\JenkkinsTest.exe.config
+c:\users\a\Source\Repos\LibraryBuild\JenkkinsTest\bin\Debug\JenkkinsTest.exe
+c:\users\a\Source\Repos\LibraryBuild\JenkkinsTest\bin\Debug\JenkkinsTest.pdb
+c:\users\a\Source\Repos\LibraryBuild\JenkkinsTest\obj\Debug\JenkkinsTest.csprojResolveAssemblyReference.cache
+c:\users\a\Source\Repos\LibraryBuild\JenkkinsTest\obj\Debug\JenkkinsTest.Form1.resources
+c:\users\a\Source\Repos\LibraryBuild\JenkkinsTest\obj\Debug\JenkkinsTest.Properties.Resources.resources
+c:\users\a\Source\Repos\LibraryBuild\JenkkinsTest\obj\Debug\JenkkinsTest.csproj.GenerateResource.Cache
+c:\users\a\Source\Repos\LibraryBuild\JenkkinsTest\obj\Debug\JenkkinsTest.exe
+c:\users\a\Source\Repos\LibraryBuild\JenkkinsTest\obj\Debug\JenkkinsTest.pdb
+c:\users\a\Source\Repos\LibraryBuild\JenkkinsTest\bin\Debug\LibraryBuild.dll
+c:\users\a\Source\Repos\LibraryBuild\JenkkinsTest\bin\Debug\LibraryBuild.pdb
+C:\Users\A\Source\Repos\LibraryBuild\JenkkinsTest\bin\Debug\CalculatorLibrary.dll
+C:\Users\A\Source\Repos\LibraryBuild\JenkkinsTest\bin\Debug\SvnLibrary.dll
+C:\Users\A\Source\Repos\LibraryBuild\JenkkinsTest\bin\Debug\CalculatorLibrary.pdb
+C:\Users\A\Source\Repos\LibraryBuild\JenkkinsTest\bin\Debug\SvnLibrary.pdb
